@@ -44,10 +44,10 @@ const container = getContainer({
 ---
 
 ## How it works
-* <h4>Import from package 'charmander'</h4>
+* <h4>Import from package 'HTMLBuilder'</h4>
 
 ```javascript
-import * html from 'charmander';
+import * html from 'HTMLBuilder';
 ```
 
 * <h4>Start by creating a Page object</h4>
