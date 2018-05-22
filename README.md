@@ -150,3 +150,9 @@ So, everytime we have new data we can just call this function to generate the HT
 
 > * The library is extendible and new 'Containers' and 'Components' can always be added. 
 > * While using it for emails FlexBox should not be used because its not supported by most email services.
+
+## Screenshots
+Here are screenshots of some components created with HTMLBuilder
+
+
+![table](screenshots/screenshot.png)
